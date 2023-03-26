@@ -22,21 +22,29 @@
 
 - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev) -->
 
-<br><br>
+<br>
 
 <!-- ## 🛠 &nbsp;Tech Stack -->
 
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![NextJS](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=react)&nbsp;
+![Nextjs](https://img.shields.io/badge/-Next.13-05122A?style=flat&logo=next.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+<!-- 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-
+ -->
+ 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs&logoColor=6f1026)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
+![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+
+![ReactNative](https://img.shields.io/badge/-Native-05122A?style=flat&logo=react)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
-![Git](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 <!-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 <!-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; -->

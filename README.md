@@ -38,10 +38,18 @@
  -->
  
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs&logoColor=6f1026)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs&logoColor=e0234e)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![mySQL](https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx&logoColor=009900)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)&nbsp;
+
+![PhaserJS](https://img.shields.io/badge/-Phaser-05122A?style=flat&logo=HTML5&logoColor=95608e)&nbsp;
+![PixiJS](https://img.shields.io/badge/-PixiJS-05122A?style=flat&logo=HTML5&logoColor=e81f63)&nbsp;
+![ThreeJS](https://img.shields.io/badge/-ThreeJS-05122A?style=flat&logo=three.js)&nbsp;
 
 ![ReactNative](https://img.shields.io/badge/-Native-05122A?style=flat&logo=react)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;

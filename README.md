@@ -61,7 +61,7 @@
     <img align="center" src="https://img.shields.io/badge/-mySQL-05122A?style=flat&logo=mysql" alt="mySQL"/>&nbsp;
   </a>
   <a href="https://graphql.org/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=f6009c" alt="GraphQL"/>&nbsp;
+    <img align="center" src="https://img.shields.io/badge/-tRPC-05122A?style=flat&logo=trpc" alt="tRPC"/>&nbsp;
   </a>
 </p>
 

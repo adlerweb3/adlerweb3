@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/adlerweb3/125ea69fd9760ad5d5c9785f308344da/raw/0cd9df1e13105622b2d0b02f6a9b347cd60fe50f/githubCard.svg"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/adlerweb3/125ea69fd9760ad5d5c9785f308344da/raw/0cd9df1e13105622b2d0b02f6a9b347cd60fe50f/githubCard.svg"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Adler Spencer</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=adlerweb3&color=55A5D5" alt="Profile views" /> </p> -->
 <a href="https://www.linkedin.com/in/adlerspencer" target="_blank">
